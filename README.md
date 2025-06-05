@@ -9,13 +9,18 @@
 git clone https://github.com/TTanishq27/data-ingestion-api
 cd data-ingestion-api
 npm install
-node index.js
+node index.js or npm start
 ```
 
 ## Test
 ```bash
 npm install --save-dev jest supertest
 npx jest
+```
+
+## Local Testing
+```bash
+npm test
 ```
 
 ## Example
