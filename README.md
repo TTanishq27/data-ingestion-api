@@ -1,9 +1,15 @@
+<img width="551" alt="Test Screenshot" src="https://github.com/user-attachments/assets/d73275b3-54a4-4e1f-9612-b335d2d12346" />
+
+
+
+
+
 ## Run Locally
 ```bash
 git clone https://github.com/TTanishq27/data-ingestion-api
 cd data-ingestion-api
 npm install
-node server.js
+node index.js
 ```
 
 ## Test
